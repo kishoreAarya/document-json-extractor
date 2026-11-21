@@ -1,0 +1,12 @@
+{
+  "name": "Arjun Kumar",
+  "email": "arjun@example.com",
+  "phone": null,
+  "skills": [
+    "Python",
+    "Pandas",
+    "NumPy"
+  ],
+  "experience_years": 0.0,
+  "education": "B.Sc Computer Science"
+}

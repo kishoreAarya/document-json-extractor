@@ -1,0 +1,12 @@
+{
+  "name": "Priya Reddy",
+  "email": "priya@example.com",
+  "phone": "+91 9123456780",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "MySQL"
+  ],
+  "experience_years": 2.0,
+  "education": "B.Tech in Information Technology"
+}

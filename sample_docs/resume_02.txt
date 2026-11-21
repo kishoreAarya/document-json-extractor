@@ -1,0 +1,9 @@
+Name: Priya Reddy
+Email: priya@example.com
+Phone: +91 9123456780
+
+Skills: Java, Spring Boot, MySQL
+
+Experience: 2 years as a Java Developer
+
+Education: B.Tech in Information Technology

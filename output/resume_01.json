@@ -1,0 +1,13 @@
+{
+  "name": "Rahul Sharma",
+  "email": "rahul@example.com",
+  "phone": "+91 9876543210",
+  "skills": [
+    "Python",
+    "SQL",
+    "FastAPI",
+    "Docker"
+  ],
+  "experience_years": 3.0,
+  "education": "B.Tech in Computer Science"
+}

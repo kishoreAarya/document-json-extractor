@@ -1,0 +1,8 @@
+Name: Arjun Kumar
+Email: arjun@example.com
+
+Skills: Python, Pandas, NumPy
+
+Experience: Fresher
+
+Education: B.Sc Computer Science

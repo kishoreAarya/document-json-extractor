@@ -1,0 +1,13 @@
+Rahul Sharma
+
+Email: rahul@example.com
+Phone: +91 9876543210
+
+Skills:
+Python, SQL, FastAPI, Docker
+
+Experience:
+3 years as a Backend Developer
+
+Education:
+B.Tech in Computer Science
